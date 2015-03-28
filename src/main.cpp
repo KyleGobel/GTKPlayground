@@ -1,4 +1,3 @@
-//#include "app/Application.h"
 #include <gtk/gtk.h>
 #include <iostream>
 
